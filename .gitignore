@@ -7,12 +7,9 @@
 /node_modules
 /package-lock.json
 /result/
-/t
 /target.js
 /test
 /test.py
-/手工DEMO
-/演示用
 /logs
 /beautifulcode
 /local_rec
@@ -24,5 +21,4 @@
 /gt
 /result_test
 /code/logs
-*.rpk
-./all_rpk
+/all_rpk
